@@ -1,1 +1,1 @@
-# 1st-PyCrawlerMarathon
+[Python] Web Crawler coding memory
